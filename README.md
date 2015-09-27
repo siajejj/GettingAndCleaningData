@@ -1,7 +1,4 @@
----
-title: "GettingAndCleaningData"
-output: html_document
----
+# GettingAndCleaningData
 Repository for Getting and Cleaning Data Course Project
 
 ### Description

@@ -1,7 +1,5 @@
----
-title: "CodeBook"
-output: html_document
----
+# CodeBook
+
 ### Description of variables
 #### subject  
 Type: Factor  
